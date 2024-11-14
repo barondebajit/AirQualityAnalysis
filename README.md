@@ -3,7 +3,7 @@
 Welcome to the **AirQualityAnalysis** repository! This repository contains the source code for the Streamlit app [bdb-airqualityanalysis](https://bdb-airqualityanalysis.streamlit.app). The app provides interactive visualizations and basic statistical analysis of pollutants in the AirQuality UCI dataset.
 
 ## Overview
-The **AirQualityAnalysis** app is designed to help users explore and understand the levels of various pollutants over time using interactive charts and data insights. By leveraging Python libraries like `numpy` and `plotly`, the app offers a seamless experience for visual data analysis.
+The **AirQualityAnalysis** app is designed to help users explore and understand the levels of various pollutants over time using interactive charts and data insights. By leveraging Python libraries like `pandas` and `plotly`, the app offers a seamless experience for visual data analysis.
 
 ### Key Features
 - **Interactive visualizations**: Provides users with easy-to-navigate charts and graphs.
